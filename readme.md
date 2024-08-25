@@ -1,4 +1,4 @@
-# Saavn
+# 4-0-4
 
  <p>Playing high quality songs, over your web browser, ad-free experience, High-Quality Music upto 320kbps</p>
  
@@ -6,8 +6,8 @@
 
 ## Live Preview
 Preview is available at the links below : <br>
-[saavn-web-ui.vercel.app](https://saavn-web-ui.vercel.app/)<br>
-[saavn.codeforkers.tk](https://saavn.codeforkers.tk)
+[404-web-ui.vercel.app](https://404-music-player.vercel.app/)<br>
+[404.codeforkers.tk](https://saavn.codeforkers.tk)
 
 ## Details
 > Status : `In Development`<br>
